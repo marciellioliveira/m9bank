@@ -133,7 +133,7 @@ para permitir conversões monetárias.
 
 ### 1. Clone o Repositório:
 - Clone o repositório no seu diretório local,
-- git clone marciellioliveira/BancoDigital_Parte1
+- git clone marciellioliveira/m9bank
 
 ### Dependências
 - Certifique-se de que o Maven está instalado em seu sistema.
